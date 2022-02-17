@@ -1,0 +1,16 @@
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\bin\Debug\net5.0\TREINOLISTA.exe
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\bin\Debug\net5.0\TREINOLISTA.deps.json
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\bin\Debug\net5.0\TREINOLISTA.runtimeconfig.json
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\bin\Debug\net5.0\TREINOLISTA.runtimeconfig.dev.json
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\bin\Debug\net5.0\TREINOLISTA.dll
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\bin\Debug\net5.0\ref\TREINOLISTA.dll
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\bin\Debug\net5.0\TREINOLISTA.pdb
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\TREINOLISTA.csproj.AssemblyReference.cache
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\TREINOLISTA.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\TREINOLISTA.AssemblyInfoInputs.cache
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\TREINOLISTA.AssemblyInfo.cs
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\TREINOLISTA.csproj.CoreCompileInputs.cache
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\TREINOLISTA.dll
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\ref\TREINOLISTA.dll
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\TREINOLISTA.pdb
+E:\C# completo\ws-vs2019\TREINOLISTA\TREINOLISTA\obj\Debug\net5.0\TREINOLISTA.genruntimeconfig.cache
